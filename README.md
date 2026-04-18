@@ -26,11 +26,13 @@ This project allows users to generate QR codes instantly by entering any text or
 
 ## 📂 Project Structure
 
+```
 QR-Code-Generator/
 │── index.html  
 │── style.css  
 │── README.md  
 
+```
 ---
 
 ## ⚙️ How It Works
@@ -44,13 +46,19 @@ QR-Code-Generator/
 ## 🧑‍💻 Installation & Usage
 
 1. Clone the repository:
-   git clone https://github.com/your-username/qr-code-generator.git
+   git clone https://github.com/your-username/QR_Generator.git
 
 2. Navigate to the folder:
    cd QR_Generator
 
 3. Open the project:
    - Open `index.html` in your browser
+
+---
+
+## 📸 Screenshot
+
+![QR Code Generator Screenshot](https://github.com/madupojumounika/QR_Generator/blob/af6d2358cfabf1b33892ec96a3df9f49afef8d45/Proj_Screenshot.png)
 
 ---
 
