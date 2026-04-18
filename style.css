@@ -1,0 +1,48 @@
+body{
+    background-image: url('https://canvafly.com/wp-content/uploads/2024/11/Canva-QR-Code-Generator.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 92vh;
+    width: 80vw;
+}
+
+button{
+    background-color: rgb(5, 118, 5);
+    color: aliceblue;
+    text-align: center;
+    padding: 2%;
+    margin-left: 15%;
+    position: absolute;
+    border-radius: 10px;
+}
+
+.container{
+    margin-left:10%;
+    margin-top:1%;
+    color:black;
+    align-items: left;
+    position: absolute;
+    padding:5% ;
+    border-radius:20px;
+    border: 5px solid rgb(123, 219, 234);
+}
+
+input{
+    margin-left: 15%;
+    padding: 2%;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#QRCode{
+    margin-left:20%;
+    margin-top: 10px;
+}
+.multi {
+    font-size: 70px;  
+    font-weight: bold;
+    text-align: center;
+    background: linear-gradient(45deg, red, orange, yellow, green, blue, indigo, violet);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
