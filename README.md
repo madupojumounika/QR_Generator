@@ -46,7 +46,7 @@ QR-Code-Generator/
 ## 🧑‍💻 Installation & Usage
 
 1. Clone the repository:
-   git clone https://github.com/your-username/QR_Generator.git
+   git clone https://github.com/your-username/qr-code-generator.git
 
 2. Navigate to the folder:
    cd QR_Generator
